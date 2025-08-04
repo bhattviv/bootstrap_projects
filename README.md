@@ -29,7 +29,7 @@ This repository contains a collection of responsive web projects built with Boot
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AT30035/Bootstrap-Projects.git
+   git clone https://github.com/bhattviv/Bootstrap-Projects.git
    ```
 
 2. Navigate to any project folder to explore the code
@@ -125,8 +125,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- GitHub: [@AT30035](https://github.com/AT30035)
-- if You Want to contact me here is the mail:- abhay.tiwari3003@gmail.com
+- GitHub: https://github.com/bhattviv
+- if You Want to contact me here is the mail:- 26bhattvivekgmail.com
 
 ---
 
