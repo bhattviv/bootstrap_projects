@@ -5,25 +5,45 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## 📋 Overview
+A collection of beginner-to-intermediate level frontend projects built using **HTML5**, **CSS3**, and the **Bootstrap 5 framework**. This repository is created for learning, practicing, and showcasing modern responsive web design.
 
-This repository contains a collection of responsive web projects built with Bootstrap. These projects showcase various Bootstrap components, layouts, and customizations to create modern, mobile-first websites.
+---
 
-## 📁 Repository Structure
+## 🔥 Projects Included
 
-- `📂 Landing-Pages/` - Bootstrap-powered landing page templates
-- `📂 Dashboards/` - Admin and data visualization interfaces
-- `📂 E-commerce/` - Online store templates and components
-- `📂 Components/` - Custom Bootstrap component examples
-- `📂 Layouts/` - Grid system and responsive layout demonstrations
+| Project No. | Project Name         | Description                                      |
+|-------------|----------------------|--------------------------------------------------|
+| 01          | Product Landing Page | A responsive product showcase landing page.      |
+| 02          | Portfolio Website    | A personal portfolio template with smooth scroll.|
+| 03          | Startup Page         | A startup-themed homepage using Bootstrap grid.  |
+| 04          | Login Page UI        | A clean and minimal login form using Bootstrap.  |
 
-## 🔍 Key Features
+---
 
-- ✅ Fully responsive designs that work on all devices
-- ✅ Custom Bootstrap theme implementations
-- ✅ Practical real-world website examples
-- ✅ Bootstrap component customizations
-- ✅ Performance-optimized implementations
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- Responsive Web Design Principles
+
+---
+
+## 📁 Folder Structure
+
+```bash
+bootstrap_projects/
+│
+├── Bootstrap-Project-01/
+│   └── index.html
+│   └── style.css
+│
+├── Bootstrap-Project-02/
+│   └── index.html
+│   └── images/
+│
+└── ...
+
 
 ## 🚀 Getting Started
 
